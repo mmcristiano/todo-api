@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "S4T98ujpEGjCAYxuHfRyqVf42cK81BGxedgmwnUNzz/lOh5RzP0/Ox/7m0xz/TXoq4dF7I1WyooIfXGR9o6YeA==",
+  "dgSpecHash": "TtHfNGfHIHHm7MAzDYviE4eU4E8iVZNwSXYtuC7lljlFOIZBUElpzumvPpGghOfzRM7HXCMf/2Wpm7Z/4n/SLg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Cristiano\\Desktop\\todo-api\\todo-api\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Cristiano\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
