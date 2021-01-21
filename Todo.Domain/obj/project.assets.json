@@ -29,7 +29,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "flunt >= 1.0.5"
+      "Flunt >= 1.0.5"
     ]
   },
   "packageFolders": {
@@ -71,7 +71,7 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
-          "flunt": {
+          "Flunt": {
             "target": "Package",
             "version": "[1.0.5, )"
           }
