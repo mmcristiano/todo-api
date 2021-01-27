@@ -24,6 +24,15 @@ Utilizando um gerenciador de banco de dados, crie um banco de dados com o nome T
 CREATE DATABASE Todo
 ```
 
+# Migration
+
+Utilizaremos o Migration para realizar a criação das tabelas de acordo com o modelo de classes definido na aplicação.
+
+.
+.
+.
+
+
 # Firebase Authentication
 
 Neste projeto foi utilizado o padrão de authenticação com o Google atráves do Firebase.
